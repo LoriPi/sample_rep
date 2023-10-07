@@ -1,2 +1,2 @@
 def square(x):
-    """return the square of a given number
+    """return the square of a given number"""
